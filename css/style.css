@@ -53,7 +53,7 @@ body {
 .text-container {
     max-width: 700px;
     margin: 20px auto;
-    text-align: left;
+    text-align: right;
     line-height: 1.6;
 }
 
