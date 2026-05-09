@@ -50,6 +50,11 @@ body {
     display: block;
 }
 
+.myrow img:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
 .text-container {
     max-width: 700px;
     margin: 20px auto;
