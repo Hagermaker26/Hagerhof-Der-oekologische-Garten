@@ -42,10 +42,6 @@ body {
   color: white;
 }
 
-.myrow a p:hover {
-    color: #c8e6c9; /* hellgrün beim Hover */
-}
-
 .myrow img {
     width: 200px;
     height: 150px;
