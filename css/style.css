@@ -63,6 +63,9 @@ body {
 }
  .bild {
   transform: translate(90%, 60%);
+  width: 200px;
+  height: 150px;
+     
 }   
 .calendar {
     display: flex;
