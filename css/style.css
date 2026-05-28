@@ -62,7 +62,7 @@ body {
     line-height: 1.6;
 }
  .bild {
-  transform: translate(5%, 2%);
+  transform: translate(90%, 60%);
 }   
 .calendar {
     display: flex;
